@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/youtube-clone.iml" filepath="$PROJECT_DIR$/youtube-clone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="youtube-clone/app" />
+      <module fileurl="file://$PROJECT_DIR$/youtube-clone.iml" filepath="$PROJECT_DIR$/youtube-clone.iml" group="youtube-clone" />
     </modules>
   </component>
 </project>
